@@ -1,1 +1,1 @@
-"# Django_ToDo" 
+# Django_ToDo Web Application
